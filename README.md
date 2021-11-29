@@ -16,3 +16,5 @@ Para poder acceder a estos y al resto de métodos y propiedades de la clase padr
 
 ### 6
 El ejercicio 6 está codificado en el archivo 6.php
+
+Todos los ejercicios están en `/home/jruiz/src/dwes_2021-JuampaMolina`. El 6 es el único que he publicado en `/var/www/ifc33x/jruiz`
