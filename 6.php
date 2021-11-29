@@ -9,6 +9,8 @@
 <body>
     <?php
 
+    // Comprobamos que se haya subido archivo1, es necesario comprobar si tiene la propiedad name (por ejemplo),
+    // si no, evaluará como true si el usuario envia vacío el archivo
     if (isset($_FILES['archivo1']) && $_FILES['archivo1']['name'])
     {
         echo("Archivo 1 subido: " . $_FILES['archivo1']['name'] . "<br>");
